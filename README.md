@@ -20,4 +20,16 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
