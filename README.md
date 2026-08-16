@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
