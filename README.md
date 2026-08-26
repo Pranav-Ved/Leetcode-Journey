@@ -12,12 +12,14 @@
 | [0136-single-number](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Pranav-Ved/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
